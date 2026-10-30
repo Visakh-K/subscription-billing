@@ -1,5 +1,7 @@
 # SaaS Subscription Billing & Usage-Metering Backend
 
+# Screen Recording:: https://www.loom.com/share/45121f328ef34b62899c0a3e766ec7c1
+
 A multi-tenant Laravel backend for tracking metered usage, handling two-layer idempotency, nightly chunked aggregations, and mid-cycle plan proration.
 
 ---
